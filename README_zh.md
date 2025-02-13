@@ -1,10 +1,10 @@
-<div align="right">
-    <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
-</div>
-
 # Ultra-Innerthought🤔
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Ultra--Innerthought-blue)](https://huggingface.co/datasets/fnlp/Ultra-Innerthought)
+
+<div align="left">
+    <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
+</div>
 
 ## 简介
 Ultra-Innerthought是一个中英双语的开放领域的Innerthought格式的SFT数据集，包含2,085,326个对话。不同于当前主要关注数学和代码领域的推理数据集，Ultra-Innerthought覆盖了更多的领域，并包含中文和英文两个语种。我们使用了Deepseek V3作为数据合成的模型。
