@@ -2,7 +2,7 @@
     <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
 </div>
 
-# Ultra-Innerthought
+# Ultra-Innerthought🤔
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Ultra--Innerthought-blue)](https://huggingface.co/datasets/fnlp/Ultra-Innerthought)
 

@@ -2,10 +2,9 @@
     <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
 </div>
 
+# Ultra-Innerthought🤔
+
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Ultra--Innerthought-blue)](https://huggingface.co/datasets/fnlp/Ultra-Innerthought)
-
-
-# Ultra-Innerthought
 
 ## Introduction
 Ultra-Innerthought is a bilingual (Chinese and English) open-domain SFT dataset in Innerthought format, containing 2,085,326 dialogues. Unlike current reasoning datasets that mainly focus on mathematics and coding domains, Ultra-Innerthought covers a broader range of fields and includes both Chinese and English languages. We used Deepseek V3 as the model for data synthesis.
