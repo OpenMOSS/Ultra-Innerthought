@@ -7,7 +7,7 @@
 </div>
 
 ## Introduction
-Ultra-Innerthought is a bilingual (Chinese and English) open-domain SFT dataset in Innerthought format, containing 2,085,326 dialogues. Unlike current reasoning datasets that mainly focus on mathematics and coding domains, Ultra-Innerthought covers a broader range of fields and includes both Chinese and English languages. We used Deepseek V3 as the model for data synthesis.
+Ultra-Innerthought is a bilingual (Chinese and English) open-domain R1/o1 style SFT dataset in think-than-response format, containing 2,085,326 dialogues. Unlike current reasoning datasets that mainly focus on mathematics and coding domains, Ultra-Innerthought covers a broader range of fields and includes both Chinese and English languages. We used Deepseek V3 as the model for data synthesis.
 
 ## Dataset Format
 ```json
